@@ -23,7 +23,8 @@ dependencies:
   - pip:
     - appnope==0.1.2
     - backcall==0.2.0
-    - blosc==1.9.1
+    - blosc==1.9.2
+    # - blosc==1.9.1
     - chardet==4.0.0
     - click==7.1.2
     - cloudpickle==1.6.0

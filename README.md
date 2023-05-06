@@ -23,9 +23,9 @@ conda activate ella
 Install BabyAI and MiniGrid.
 
 ```
-cd babyai
+cd gym-minigrid
 pip install -e .
-cd ../gym-minigrid
+cd ../babyai
 pip install -e .
 ```
 

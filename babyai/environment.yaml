@@ -9,5 +9,5 @@ dependencies:
     - blosc
     - pip
     - pip:
-        - gym
+        # - gym
         - scikit-build
